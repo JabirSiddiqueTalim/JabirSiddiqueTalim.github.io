@@ -1,5 +1,6 @@
 /* =========================
    Configuration & State
+   
    ========================= */
 const API_PRODUCTS = 'https://fakestoreapi.com/products';
 const STARTING_BALANCE = 1000; // BDT
